@@ -1,0 +1,1 @@
+SDLC is a process of planning, creating, testing and deploying information systems across hardware and software.
