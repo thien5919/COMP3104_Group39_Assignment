@@ -9,6 +9,7 @@ Future carrer: Full-Stack Developer
 Status: 
 
 * Added 3 files required
+* Added 10 commit required
 * Updated README.md file
 
 # How to set up connecting local computer and GitHub
