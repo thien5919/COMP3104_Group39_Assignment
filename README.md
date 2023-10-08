@@ -1,3 +1,13 @@
+
+
+
+Full name:  Karl Macayan 
+STUDEND ID: 101368449
+
+Future Dream Career: Web Front End Developer
+
+All 3 .txt files and README.md has been COMPLETED
+
 # *_COMP3104_Group39_Assignment_*
 
 Saturday 07 Octorber, 2023
@@ -59,4 +69,5 @@ git log
 ```bash
 git pull
 ```
+
 
