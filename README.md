@@ -1,7 +1,5 @@
 # *_COMP3104_Group39_Assignment_*
 
-Saturday 07 Octorber, 2023
-
 Full name: Minh Nhat Vo <br />
 Student's ID: 101224717 <br />
 Future carrer: Full-Stack Developer
@@ -9,7 +7,6 @@ Future carrer: Full-Stack Developer
 Status: 
 
 * Added 3 files required
-* Added 10 commit required
 * Updated README.md file
 
 ## How to set up connecting local computer and GitHub
