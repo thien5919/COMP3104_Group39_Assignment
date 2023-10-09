@@ -2,7 +2,7 @@
 
 Full name: Duc Thien Tran
 Student ID: 101333237
-Role: Leader/Owner   
+Role: Leader/Owner
 Future carrer: Full-stack developer
 
 Status:
