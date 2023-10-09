@@ -8,6 +8,6 @@ Future carrer: Full-stack developer
 
 Status:
 
-Add 3 files reuired
+  - Add 3 files reuired
 
-Update README.md file
+  - Update README.md file
