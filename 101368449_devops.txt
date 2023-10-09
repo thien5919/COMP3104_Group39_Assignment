@@ -1,1 +1,2 @@
-Hello World!!!
+
+This course aims to teach students the methods, guidelines, and optimal approaches that a DevOps professional implements in a work environment to enhance efficiency and effectiveness. 
