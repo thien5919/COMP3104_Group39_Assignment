@@ -1,2 +1,3 @@
 The course COMP3104-DevOps helps students understand about DevOps - an important role in the IT teams. Students in this course will learn the procedures, protocols and best practices that a DevOps
 engineer brings to a workplace environment to increase productivity.
+
