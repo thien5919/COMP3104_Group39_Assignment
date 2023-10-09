@@ -1,13 +1,23 @@
-Full name: Duc Thien Tran
 
-Student ID: 101333237
+Leader
+  Full name: Duc Thien Tran
 
-Role: Leader/Owner
+  Student ID: 101333237
 
-Future carrer: Full-stack developer
+  Role: Leader/Owner
 
-Status:
+  Future carrer: Full-stack developer
+ 
+Member #1
 
-  - Add 3 files reuired
+  Full name: Minh Nhat Vo <br />
+  Student's ID: 101224717 <br />
+  Future carrer: Full-Stack Developer
 
-  - Update README.md file
+Status: 
+
+* Added 3 files required
+* Updated README.md file
+
+
+
