@@ -1,0 +1,1 @@
+- DevOps makes software development and deployment faster and more efficient by bringing development and operations teams together, allowing organizations to respond quickly to changes and deliver software more rapidly.
