@@ -1,4 +1,4 @@
-Full name: Duc Thien Tran
+Full name: Duc Thien, Tran
 
 Student ID: 101333237.
 
