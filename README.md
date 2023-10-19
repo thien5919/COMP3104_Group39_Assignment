@@ -1,6 +1,6 @@
-# *_COMP3104_Group39_Assignment_*
+# *_COMP3104_Group39_Assignment01_*
 
-Full name: Minh Nhat, Vo <br />
+Full name: Minh Nhat Vo <br />
 Student's ID: 101224717 <br />
 Future carrer: Full-Stack Developer
 
