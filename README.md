@@ -18,7 +18,7 @@
 
   Message: 
 
-    Hi I'm Karl and I like to bike around town during the summer
+  Hi I'm Karl and I like to bike around town during the summer
 
 ## Member_2
 
