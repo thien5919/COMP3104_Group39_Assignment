@@ -1,6 +1,0 @@
-COMP3104 - DEVOPS - FALL 2023 - GEORGE BROWN College
-
-Professor's Name: Pritesh Patel
-
-Course Description:
-DevOps is a methodology that emphasizes collaboration between IT engineers and developers. The goal of DevOps is  to increase the efficiency, speed, and security of software development and delivery compared to traditional processes. Students will know how to use Git and GitHub when they finish half of the first semester. They will be able to manage all stages of the lifetime of an application from development to testing, and operations. Furthermore , they will be constructed a DevOps pipeline by using tool such as Gitlab, Jenkins, Docker,… And students will examine SDLC and Agile Project Management Methodologies. 
