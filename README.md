@@ -14,7 +14,7 @@ Leader
  
 Member #1
 
-  ## Karl Macayan 
+   Karl Macayan 
   
    Student ID: 101368449
    
