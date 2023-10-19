@@ -3,8 +3,6 @@
 # COMP3104_Group39_Assignment
 
 
-=======
-
 Leader
   Full name: Duc Thien Tran
 
