@@ -1,15 +1,7 @@
-
-
-Full name: Minh Nhat Vo <br />
-Student's ID: 101224717 <br />
-Future carrer: Full-Stack Developer
-=======
-
-
 # COMP3104_Group39_Assignment
 
-
 Leader
+
   ## Duc Thien Tran
 
   Student ID: 101333237
@@ -27,15 +19,14 @@ Member #1
    Future Dream Career: Web Front End Developer
 
 Hi I'm Karl and I like to bike around town during the summer
-   
+
 Member #2
 
-  ## Minh Nhat, Vo <br />
-  
+   
+  Full name: Minh Nhat Vo <br />
   Student's ID: 101224717 <br />
-  
   Future carrer: Full-Stack Developer
-
+  =======
 
 Status: 
 
