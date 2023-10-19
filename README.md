@@ -1,6 +1,4 @@
-
-# *_COMP3104_Group39_Assignment01_*
-
+# COMP3104_Group39_Assignment
 
 Leader
 
@@ -24,15 +22,16 @@ Hi I'm Karl and I like to bike around town during the summer
 
 Member #2
 
-    ## Minh Nhat Vo 
-    Student's ID: 101224717 <br />
-Future carrer: Full-Stack Developer
+   
+  Full name: Minh Nhat Vo <br />
+  Student's ID: 101224717 <br />
+  Future carrer: Full-Stack Developer
+  =======
 
 Status: 
 
 * Added 3 files required
 * Updated README.md file
-
 
 
 
