@@ -1,13 +1,38 @@
 # *_COMP3104_Group39_Assignment01_*
 
-Full name: Minh Nhat Vo <br />
-Student's ID: 101224717 <br />
-Future carrer: Full-Stack Developer
+Leader
 
-Status: 
+  ## Duc Thien Tran
 
-* Added 3 files required
-* Updated README.md file
+  Student ID: 101333237
+
+  Role: Leader/Owner
+
+  Future carrer: Full-stack developer
+ 
+Member #1
+
+   ## Karl Macayan 
+  
+   Student ID: 101368449
+   
+   Future Dream Career: Web Front End Developer
+
+   Message: 
+   Hi I'm Karl and I like to bike around town during the summer
+
+Member #2
+
+  ## Minh Nhat Vo 
+  
+  Student's ID: 101224717 
+  
+  Future carrer: Full-Stack Developer
+
+  Status: 
+
+   * Added 3 files required
+   * Updated README.md file
 
 ## How to set up connecting local computer and GitHub
 First, you need to initialize to your folder at local machine
