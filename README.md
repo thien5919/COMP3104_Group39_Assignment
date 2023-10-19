@@ -1,5 +1,7 @@
 
+
 # COMP3104_Group39_Assignment
+
 
 =======
 
@@ -19,10 +21,10 @@ Member #1
    Student ID: 101368449
    
 Member #2
-
-  Full name: Minh Nhat Vo <br />
+  Full name: Minh Nhat, Vo <br />
   Student's ID: 101224717 <br />
   Future carrer: Full-Stack Developer
+
 
 Status: 
 
