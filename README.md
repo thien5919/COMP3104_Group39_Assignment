@@ -1,54 +1,38 @@
 # *_COMP3104_Group39_Assignment01_*
 
-Full name: Minh Nhat Vo <br />
-Student's ID: 101224717 <br />
-Future carrer: Full-Stack Developer
+## Leader
 
-Status: 
+  ### Duc Thien Tran
 
-* Added 3 files required
-* Updated README.md file
+  Student's ID: 101333237
 
-## How to set up connecting local computer and GitHub
-First, you need to initialize to your folder at local machine
+  Future carrer: Full-stack developer
+ 
+## Member_1
 
-```bash
-git init
-```
-Clone the repository to local machine
+  ### Karl Macayan 
+  
+  Student's ID: 101368449
+   
+  Future Dream Career: Web Front End Developer
 
-```bash
-git clone <repository>
-```
+  Message: 
 
-## Switch to other branch
+    Hi I'm Karl and I like to bike around town during the summer
 
-```bash
-git checkout <name-branch>
-```
+## Member_2
 
-## Push new branch from local to remote
+  ### Minh Nhat Vo 
 
-```bash
-git push --set-upstream origin <name-branch>
-```
+  Student's ID: 101224717
 
-## Show list of branch
+  Future carrer: Full-Stack Developer
 
-```bash
-git branch
-```
+  Status: 
 
-## Show list of commit
+  * Added 3 files required
+  * Updated README.md file
 
-```bash
-git log
-```
 
-## Update on local machine
-
-```bash
-git pull
-```
 
 
